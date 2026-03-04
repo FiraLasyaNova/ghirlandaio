@@ -17,7 +17,7 @@ repot  : [telegram](https://t.me/yuroshub)
 | uas      | 60%          |
 
 
-## penugasan
+## rencana penugasan
 
 ## konseptual
 
@@ -52,7 +52,6 @@ repot  : [telegram](https://t.me/yuroshub)
 
 
 ## praktek
-
 | no       | tipe                                               | perstase   |  
 | ---------| ---------------------------------------------------- | ---------- |
 | 1        |  originalitas source                                 | 5%         |
