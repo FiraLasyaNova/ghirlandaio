@@ -20,14 +20,16 @@
   <p align="center">2026</p>
 
 ---
-## KATA PENGANTAR 
+**KATA PENGANTAR**
+
 Puji syukur kami panjatkan ke hadirat Tuhan Yang Maha Esa karena atas rahmat dan karunia-nya makalah isi dapat disusun dengan baik. Makalah ini disusun untuk membahas posisi teknologi dalam kehidupan manusia, Khususnya sebagai mitos modern serta perannya dalam bentuk realitas melalui perspektif hiperrealitas. 
 
 Di Era digital saat ini, teknologi tidak hanya berfungsi sebagai alat bantu, tetapi juga memengaruhi cara manusia berfikir, berinteraksi, dan memaknai realitas. Oleh karena itu, pembahasan dalam makalah ini diharapkan mampu memberikan sudut pandang yang lebih kritis terhadap penggunaan teknologi dalam kehidupan sehari-hari. 
 
 Kami menyadari bahwa makalah ini masih jauh dari sempurna. Oleh karena itu, kritik dan saran yang membangun sangat diharapkan demi perbaikan di masa mendatang. Semoga makalah ini dapat memberikan manfaat bagi pembaca.  
 
-## DAFTAR ISI
+**DAFTAR ISI**
+
 Kata Pengantar
 
 BAB I Pendahuluan 
@@ -55,8 +57,8 @@ BAB III Penutup
 
 Daftar Pustaka.
 
-## BAB I 
-## PENDAHULUAN 
+**BAB** 
+**PENDAHULUAN** 
 
 1.1 Latar Belakang
 Perkembangan teknologi yang semakin pesat telah membawa perubahan besar dalam kehidupan manusia. teknologi Kini tidak hanya berperan sebagaia alat untuk mempermudah pekerjaan, Tetapi juga telah menjadi  bagian dari gaya hidup dan identitas sosial. Dalam kondisi ini, Teknologi sering kali di pandang sebagai sesuatu yang selalu membawa kemajuan dan solusi, sehingga tanpa disadari telah membentuk suatu "mitos modern" dalam masyarakat. Pandangan ini membuat manusia cenderung menerima teknologi secara apa adanya tanpa mempertanyakan dampak maupun konsekuensinya. 
@@ -78,8 +80,8 @@ Fenomena ini menimbulkan pergeseran cara manusia memahami dunia, dimana realitas
 3. Memberikan contoh kasus berdasarkan pengalaman pribadi terkait konsep teknologi dalam sudut pandang hiperrealitas
 4. Menjelaskan perbedaan teknologi sebagai mitos dan teknologi sebagai alat menggunakan pengalaman internal dan interpersonalisasi
 
-## BAB II
-## PEMBAHASAN
+**BAB II**
+**PEMBAHASAN**
 
 2.1 Posisi Teknologi sebagai mitos
 
@@ -163,7 +165,10 @@ Menurut buku Simuclara and Simulation, teknologi tidak hanya dipahami sebagai al
 
 Dalam konteks ini, perbedaan antara teknologi sebagai alat dan sebagai mitos dapat terlihat dengan jelas. Dalam pandangan teknologi sebagai alat melihat hal ini sebagai alat untuk menunjang dan membantu manusia dalam memahami realitas secara langsung, seperti membantu manusia untuk memenuhi kebutuhan informasinya melalui media sosial. Sedangkan teknologi sebagai mitos yaitu ketika kondisi teknologi tidak lagi berfungsi hanya sekedar sebagai alat bantu, tetapi sebagai sistem yang dapat membuat atau mengubah realitas yang ada melalui simulasi. Simulasi yang dimaksud adalah suatu kondisi dimana teknologi yang berupa informasi tidak selalu merujuk pada realitas aslinya, tetapi dapat dipercaya karena terus dibuat dan disebarkan. Akibatnya, individu tidak lagi berinteraksi langsung dengan realitas, melainkan dengan representasi yang dibentuk oleh teknologi. Hal ini dapat mengubah realitas yang sebelumnya tidak terjadi seperti apa yang digambarkan, namun bisa terjadi karena adanya hiperrealitas. Dengan demikian, teknologi sebagai mitos bekerja secara halus dengan membentuk persepsi dan kesadaran individu, sehingga manusia cenderung mempercayai dan bertindak berdasarkan realitas semu yang dihasilkan oleh sistem teknologi tersebut.
 
+Sebagai contoh pengalaman internal dan terpersonalisasi yaitu ketika dunia dilanda pandemi COVID-19, terjadinya kepanikan massal dan panic buying yang terjadi pada kasus masker saat awal terjadinya pandemi. Banyak media yang menginformasikan terjadinya kelangkaan masker, sehingga mendorong masyarakat untuk membeli dalam jumlah besar, meskipun dalam realitas yang sebenarnya kondisi nyata pada saat itu belum sepenuhnya menunjukan krisis yang parah. Dalam kasus ini, pengalaman seperti rasa takut, panik dan urgensi terbentuk bukan dari realitas langsung, melainkan dari arus informasi yang terasa secara personal karena terus muncul dan sesuai dengan kekhawatiran yang terjadi. Hal ini menunjukan bahwa teknologi tidak lagi sekedar alat penyampai informasi, tetapi telah menjadi mitos yang mampu membentuk realitas. Dalam pandangan Simuclara dan Simulation, fenomena ini mencerminkan kondisi hiperrealitas, dimana simulasi atau representasi informasi lebih dipercaya dan lebih berpengaruh daripada realitas itu sendiri. Individu bertindak berdasarkan persepsi yang dibangun oleh simulasi teknologi, bukan berdasarkan apa yang diliatnya secara langsung.
 
+**Bab III**
+**Kesimpulan**
 
 
 
