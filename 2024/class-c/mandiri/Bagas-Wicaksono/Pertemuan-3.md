@@ -24,7 +24,7 @@ Baudrillard menyebut bahwa hiperrealitas sebagai **"Sesuatu yang nyata tanpa mem
 
 ### Pergeseran Perspektif Manusia Terhadap Realitas
 Jika diringkas, perubahan perspektif manusia terhadap realitas akibat adanya simulasi berlangsung melalui urutan berikut:
-1. Realitas asli menjadi awal muka
+1. Realitas asli menjadi awal mula
 2. Representasi diciptakan untuk menggambarkan realitas
 3. Representasi mulai merusak realitas
 4. Representasi menutupi ketiadaan realitas
