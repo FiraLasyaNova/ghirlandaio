@@ -18,6 +18,8 @@ Simulasi dapat bekerja melalui adanya representasi tanda, model, dan gambar yang
 ### Simulacrum Murni: Putusnya Hubungan Representasi Dengan Realitas
 Pada tahap keempat dijelaskan bahwa *```Simulacra```* (Representasi palsu) tidak lagi hanya sekedar menyembunyikan atau mengubah realitas tetapi sudah dianggap sebagai realitas itu sendiri. Simulasi akhirnya mulai dapat mengambil alih ruang makna karena manusia mulai merepresentasikan simulasi sebagai realitas. Contohnya adalah ikon/gambar religius yang awalnya diciptakan untuk merepresentasikan *```realitas transendental```* **(realitas yang diyakini sebagai nilai dasar/sumber dari segala representasi)** namun ikon/gambar tersebut justru **"membunuh"** realitas yang seharusnya direpresentasikannya karena manusia lebih terikat dengan bentuk representatifnya daripada makna spiritualnya.
 Hal ini menyebabkan simulasi seakan-akan adalah realitas karena representasinya lebih kuat daripada kenyataan itu sendiri.
+> [!NOTE]
+> Simulacra: Satu tiruan, satu bentuk simulasi. Simulacrum: Banyak tiruan, sistem simulasi
 
 ### Hiperrealitas: Simulasi Menggantikan Realitas
 Baudrillard menyebut bahwa hiperrealitas sebagai **"Sesuatu yang nyata tanpa memiliki asal-usul atau rujukan terhadap kenyataan apapun"**.[^1] Hal yang dianggap nyata oleh manusia sebenarnya hanya hasil produksi sistem simulasi hingga pada akhirnya simulasi tidak hanya mewakili realitas justru malah menggantikannya.
