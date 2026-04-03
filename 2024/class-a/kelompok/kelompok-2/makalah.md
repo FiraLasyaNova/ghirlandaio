@@ -42,7 +42,7 @@ Dalam hal ini, teknologi dapat memposisikannya sebagai mitos modern dengan melih
 Menurut Davis (2015), teknologi sekarang sebenarnya menghidupkan kembali cara berpikir yang mirip dengan kepercayaan dulu, hanya saja dalam bentuk yang lebih modern. Tanpa kita sadari, manusia sering memaknai teknologi secara lebih mendalam terhadap internet. Dalam hal ini, manusia tidak lagi menggunakan teknologi secara rasional, namun juga mempercayainya secara berlebihan, dan mengira bahwa teknologi dapat memberikan jawaban, keputusan, bahkan sebagai penyelamat dari berbagai masalah hidup.
 
 
-**2. Teknologi dalam Sudut Pandang Hiperrealitas**
+**2.2 Teknologi dalam Sudut Pandang Hiperrealitas**
 
 Substansi teknologi dari sudut pandang hiperrealitas dapat di pahami sebagai perubauhan peran teknologi dalam kehidupan manusia. Dulu teknologi hanya dianggap sebagai alat bantu, dalam konsep hiperrealitas teknologi justru menjadi sesuatu yang membentuk cara kita melihat dan memahami realitas itu sendiri. Jean Baudrillard berpendapat bahwa teknologi tidak lagi sekedar menampilkan kenyataan, tetapi sudah masuk ke tahap menciptakan kenyataan versi baru yang disebut simulasi. 
 
@@ -54,7 +54,7 @@ Selain itu, teknologi memungkinkan realitas diproduksi dan diulang terus menerus
 
 Pada akhirnya, manusia jadi semakin bergantung pada teknologi untuk memahami dunia. apa yang dia anggap bentar atau nyata sering kali ditemukan dengan teknologi, bukan dari pengalaman langsuang. karena itu, realitas yang kita alami sekarang bisa dibilang sudah masuk ke tahap hipperrealitas, yaitu realitas buatan yang terasa lebih nata dari pada kenyataan sebenernya
 
-**3. Contoh Kasus Berdasarkan Pengalaman Pribadi**
+**2.3 Contoh Kasus Berdasarkan Pengalaman Pribadi**
 
 Untuk memahami konsep hiperrealitas secara lebih konkret, fenomena ini dapat dilihat melalui beberapa contoh pengalaman pribadi dalam kehidupan sehari-hari, diantaranya:
 
@@ -75,7 +75,7 @@ Sementara itu sudut pandang teknologi sebagai alat, teknologi masih berkaitan de
 Perbedaan antara kedua sudut pandang tersebut bisa dilihat dari cara manusia menempatkan dirinya dalam berhubungan dengan teknologi. Ketika teknologi diposisikan sebagai alat, manusia memiliki kendali penuh dan berperan sebagai pengambil keputusan. Sedangkan pada teknologi sebagai mitos posisi tersebut mulai bergeser, dimana teknologi mulai memegang kendali dan memengaruhi cara manusia berpikir dan bertindak.
 
 ## BAB 3 Penutup
-**1. Kesimpulan**
+**3.1 Kesimpulan**
 
 Posisi teknologi dalam kehidupan manusia saat ini telah mengalami perubahan yang cukup signifikan. Teknologi yang awalnya hanya berfungsi sebagai alat bantu kini mulai dipandang sebagai sebuah keyakinan baru, bahkan kadang-kadang tanpa mempertimbangkan lagi. Hal ini terlihat dari tingkat ketergantungan manusia terhadap data dan algoritma, sehingga keputusan dan pola pikir pun ikut terpengaruh. Di sisi lain, fenomena ini juga berhubungan dengan sudut pandang hiperrealitas, di mana apa yang kita anggap sebagai kenyataan ternyata banyak dipengaruhi oleh teknologi, contohnya seperti media sosial atau rekomendasi algoritma yang sering kali terasa lebih meyakinkan daripada pengalaman langsung.
 
@@ -85,4 +85,3 @@ Secara keseluruhan, teknologi saat ini memiliki dua sisi. Di satu sisi, tetap da
 
 ### DAFTAR PUSTAKA
 
-Harari, Y. N. (2018). *Homo Deus : Masa Depan Umat Manusia.* 
