@@ -143,9 +143,8 @@ Menurut jean Baudrillard teknologi sekarang sudah tidak bisa lagi dilihat sekeda
 
 2.3 Memberikan contoh kasus berdasarkan pengalaman pribadi terkait konsep teknologi dalam sudut pandang hiperrialitas
 
-Contoh kasus 
+Contoh kasus pada game pokemon Go 
 
-1. Contoh kasus pada game pokemon
 Realita tergantikan oleh simulasi dalam konteks hiperrealitas, yaitu contoh pada hiperrealitas terdapat pada fenomena game pokemon go ialah dimana pemain game pokemon Go merasa sedang monster-monster pokemon serta arena-arena bermain seperti pokestop dan juga gym dan para pemain dengan sesuka hati melakukan aktivitas mereka didunia permainan mereka sendiri, dimana makna, tanda, kode sudah tidak berlaku lagi.
 
 Manusia sering bermaim pokemom Go, dia menganggap jika di gym itu untuk tempat pertarungan, akan tetapi pada manusia umumnya didunia nyata tempat gym yaitu tempat yang digunakan untuk olahraga. Maka dari itu, iniah hiperrealitas yang pembangkitan realitasnya tanpa asal usul melalui model.
