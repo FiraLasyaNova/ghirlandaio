@@ -12,6 +12,7 @@ Secara saintifik, opini saya setuju bahwa pemikiran Adam Smith adalah dalang dar
 
 Pemikiran Adam Smith yang menuntut agar negara keluar dari campur tangan ekonomi memungkinkan terciptanya division of labor (pembagian kerja). Dalam Buku "The Wealth of Nations, dia menjelaskan bahwa pembagian kerja akan melahirkan tiga keuntungan, dan yang ketiga adalah penemuan mesin-mesin (invention of machines). Ketika seorang pekerja difokuskan pada stu tugas repetitif dei memnuhi supply pasar, otaknya secara natural akan mencari jalan pintas atu menciptakan teknologi yang bisa memudahkan pekerjaannya tersebut. 
 
-- Bukti : "The invention of all those machines by which labour is so much facilitated and abridged, seems to have been originally owing to the division of labour." 
+- Bukti : "The invention of all those machines by which labour is so much facilitated and abridged, seems to have been originally owing to the division of labour." Artinya, penemuan mesin-mesin yang memfasilitasi tenega kerja pada dasarnya berutang pada pembagian kejra yang didikte oleh pasar bebas. (Smith, Adam. "The Wealth of Nations", Bab I, Hal. 15).
+
 
 Konsep pasar bebas yang ditekankan oleh Adam Smith terbikti masih relevean, di mana prinsip kebebasan bersaing memicu pembagian kerja yangberujung langsung pada keharusan melakukan perkembangan dan inovasi teknologi modern 
