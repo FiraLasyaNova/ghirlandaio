@@ -100,27 +100,27 @@ Assalamualaikum Warahmatullahi Wabarakatuh.
 &nbsp;&nbsp;&nbsp;&nbsp; Era klasik merujuk pada periode ketika Rangatathan pertama kali merumuskan dan menjelaskan kelima hukumnya secara sistematis. safii (2018) menjelaskan bahwa latar belakang munculnya lima hukum ini adlah semangat untuk memperkuat peran perpustakaan dalam komunitas pembelajaran, di mana membaca merupakan kegiatan untuk mengingat taraf hidup masyarakat dan memberantas buta huruf.
 </p>
 
-##### **1. <i>Books are for use;<i> Melawan Budaya Penyimpanan**
+##### **1. Books are for use; Melawan Budaya Penyimpanan**
 <p align="justify">
 &nbsp;&nbsp;&nbsp;&nbsp; Hukum pertama ini lahir sebagai respon terhadap praktik perpustakaan yang masih dominan pada abad 15 hingga awal abad 20, yaitu dengan memperlakukan buku sebagai benda yang harus dilindungi dan disimpan daripada digunakan . Ranganathan dalam bukunya menggambarkan bagaimana buku-buku pada abad pertengahan dirantai ke rak agar tidak hilang. Perpustakaan saat itu dipandang bukan sebagai organisasi untuk mendorong penggunaan buku, melainkan sebagai institusi untuk menjaga dan melestarikannya. Nurozi (2004) juga mengatakan hal yang sama "perpustakaan abad pertengahan, sebagai contoh ekstrem, mengikat buku-buku ke rak dengan rantai" sebuah praktik yang menentangan dengan hukum pertama.
 </p>
 
-##### **2. <i>Every Reader his book;</i> Layanan untuk semua kalangan**
+##### **2. Every Reader his book; Layanan untuk semua kalangan**
 <p align="justify">
 &nbsp;&nbsp;&nbsp;&nbsp; Hukum kedua mendorong perpustakaan untuk menyediakan koleksi yang beragam sehingga setiap anggota masyarakat dapat menemukan bahan bacaan yang sesuai dengan kebutuhannya. safii (2018) merinci cakupan hukum kedua pada era klasik, yaitu meliputi: Perpustakaan untuk semua (termasuk pria dan wanita), untuk semua anggota masyarakat, kegiatan perpustakaan untuk semua usia, serta perpustakaan untuk semua latar belakang pendidikan. Ranganathan menekankan pentingnya membangun koleksi yang inklusif dan layanan referensi yang aktif membantu setiap individu menemukan bahan yang tepat.
 </p>
 
-##### **3. <i>Every book its reader;</i> Menghubungkan buku dengan pembaca**
+##### **3. Every book its reader; Menghubungkan buku dengan pembaca**
 <p align="justify">
 &nbsp;&nbsp;&nbsp;&nbsp; Hukum Ketiga berkaitan erat dengan hukum kedua, namun melihatnya dari sudut pandang koleksi. Setiap buku yang dimiliki perpustakaan harus menemukan permbacanya. safii (2018) mencatatat bahwa implikasi hukum ketiga pada era klasik mencakup: sistem akses terbuka/tertutup, katalogisasi, publikasi buku baru, pengembangan koleksi dan partisipasi pengguna dalam pengembangan perpustakaan. Pada era klasik, ini mendorong lahirnya sistem katalog yang lebih baik dan pengaturan rak yang memudahkan penemuan buku secara tidak langsung.
 </p>
 
-##### **4. <i>Save the Time of the Reader</i>; Efisiensi layanan**
+##### **4. Save the Time of the Reader; Efisiensi layanan**
 <p align="justify">
 &nbsp;&nbsp;&nbsp;&nbsp; Huku m keempat menekankan bahwa waktu pembaca adalah sesuatu yang berharga. Segala aspek operasional perpustakaan harus dirancang untuk meminimalkan waktu yang dibutuhkan pembaca untuk menemukan dan mendapatkan informasi yang dibutuhkan. Safii (2018) mencatat bahwa penerapan hukum keempat pada era klasik berfokus pada: Pendidikan pengguna, penggunaan aturan katalogisasidan titik akses yang tepat.
 </p>
 
-##### **5. <i>The Library is a Grow Organism</i>; Perpustakaan yang berkembang**
+##### **5. The Library is a Grow Organism; Perpustakaan yang berkembang**
 <p align="justify">
 &nbsp;&nbsp;&nbsp;&nbsp; Hukum Kelima adalah yang paling visioner. Ranganathan menegaskan bahwa perpustakaan adalah organisme hidup yang tumbuh, bukan monumen yang statis. Ia menyatakan bahwa organisme yang berhenti tumbuuh akan membatu dan binasa. Hukum ini mengandung pesan bahwa perpustakaan harus terus beradaptasi seperti, koleksinya harus diperbarui, ruangannya harus diperluas seiring pertumbuhan dan metodenya harus terus disempurnakan. Safii (2018) mencatat bahwa pada era klasik, hukum kelima berkaitan dengan aspek fisik perpustakaan seperti tata ketak gedung, desain perpustakaan, perencanaan ruang dan rak buku
 </p>
@@ -130,27 +130,27 @@ Assalamualaikum Warahmatullahi Wabarakatuh.
 &nbsp;&nbsp;&nbsp;&nbsp; Era Modern ditandai dengan lahirnya beragam teknologi baru yang mulai mengubah wajah perpustakaan, mulai dari mesin ketik elektrik, sistem komputer mainframe, mikrofilm, hingga katalog komputer (OPAC). Para pakar ilmu perpustakaan mulai mereinterpretasikan lima hukum Ranganathan dalam konteks yang lebihh luas.
 </p>
 
-##### **1. <i>Books are for use</i>; dari buku ke informasi**
+##### **1. Books are for use; dari buku ke informasi**
 <p align="justify">
 &nbsp;&nbsp;&nbsp;&nbsp; Pada era modern, makna "buku" dalam hukum pertama mulai diperluas secara fundamental. Gorman (1995) secara langsung menyatakan bahwa etika utama perpustakaan adalah "Pelayanan kepada individu, Komunitas, dan masyarakat secara keseluruhan" dan bukan lagi sekedar pelayanan terhadap buku. Reformulasi huku pertama menjadi "Library serve humanity" mencerminkan kenyataan bahwa perpustakaan tidak hanya berisi buku, tetapi juga jurnal, film, rekaman suara, dan berbagai format lainnya. Pada era ini, perpustakaan mulai bertransisis dari paradigma custody (penjagaan koleksi ke paradigma acces (akses terhadap informasi).
 </p>
 
-##### **2. <i>Every reader his book</i>; Inklusivitas yang lebih luas**
+##### **2. Every reader his book; Inklusivitas yang lebih luas**
 <p align="justify">
 &nbsp;&nbsp;&nbsp;&nbsp; Hukum kedua pada era modern berkembang menjadi kesadaran akan oentingnya layanan kepada kelompok-kelompok marginal: penyandang disabilitas, lansia, masyarakat pedesaan, dan kelompok minoritas. Gorman (1995) merumuskan hukum kedua sebagai "hormati semua bentuk komunikasi pengetahuan" yang menegaskan bahwa"perpustakaan masa depan akan menggunakan segala macam media penetahuan dan informasi." Perpustakaan muali mengembangkan layanan khusus seperti buku Braille, Layanan antar-jemput buku, dan perpustakaan keliling (bookmobile) untuk menjangkau semua lapisan masyarakat
 </p>
 
-##### **3. <i>every book its Reader</i>; Kataloh Komputer dan Akses Terbuka**
+##### **3. every book its Reader; Kataloh Komputer dan Akses Terbuka**
 <p align="justify">
 &nbsp;&nbsp;&nbsp;&nbsp; Hukum ketiga pada era modern mendapatkan manifestasi paling nyata dalam pengembangan Online Public Access Cataloh (OPAC) pada tahun 1970 dan 1980 an. Sistem katalog komputer ini memungkinkan pembaca untuk mencarikoleksi perpustakaan jauh kebih efisien dibandingkan katalog kartu Konvensional. Gorman (1995) dalam hukum ketiganya mendorong penggunaan teknologi secara cerdas: ia menyatakan nahwa "ia menyatakan bahwa "katalog daringlebih unggul daripada kataloh kartu dan mikrofilm" sebagai contohnyata teknologi yang memperkuat layanan tanpa mengorbankan misi perpustakaan
 </p>
 
-##### **4. <i>Save the time of the reader</i>; Otomasi layanan**
+##### **4. Save the time of the reader; Otomasi layanan**
 <p align="justify">
 &nbsp;&nbsp;&nbsp;&nbsp; Era modern menyaksikan revolusi besar dalam efisiensi layanan perpustakaan melalui infomasi. Gorman (1995) eksplisit menulis bahwa " sudah jelas bahwa perpustakaan modern harus memiliki sistem sirkulasi elektronik dan sistem pengendalian akuisisi/serial, serta harus menyediakan akses ke dunia data dan fakta yang telah didigitalkan." ini adalah penerapan langsung semangat hukum keempat Ranganathan menghemat waktu pembaca dalam konteks teknologi era modern. Noruzi (2004) memperkuat hal ini dengaan menegaskan bahwa hukum keempat pembaca :telah menjadi pendorong banyak reformasi dalam administrasi web.
 </p>
 
-##### **5. <i>The Library is a Growing organism</i>; Ekspasi fisik dan non fisik**
+##### **5. The Library is a Growing organism; Ekspasi fisik dan non fisik**
 <p align="justify">
 &nbsp;&nbsp;&nbsp;&nbsp; Hukum kelima pada era modern termanifestasikan dalam dua dimensi: ekspansi fisik (gedung, koleksi dan staff) dan ekspasi non fisik (konsorsium, jaringan perpudtakaan). Gorman (1995) memberikan dimensi baru pada hukum kelima melalui hukum keempat: "Lindungi akses bebas terhadap pengetahuan" Ia menegaskan bahwa "Perpustakaan adalah arsip kolektif pencapaian manusia dan pengetahuan sepanjang masa" sehingga pertumbuhan perpustakaan bukan hanya soal koleksi fisik, tetapi juga soal tanggung jawab pelestarian pengetahuan jangka panjang. Gorman bahkan memperingatkan "Membiarkan catatan masa lalu menghilang merupakan sensor
 </p>
@@ -160,7 +160,7 @@ Assalamualaikum Warahmatullahi Wabarakatuh.
 &nbsp;&nbsp;&nbsp;&nbsp; Era digital membawa trasformasi paling ekstrim dalam sejarah perpustakaan. Safii (2018) menjelaskan bahwa di era digital ini, dengan generasinya yang disebur Generasi Z yang memiliki karakteristik Phigital (hidup di dunia digital dan dunia fisik), hyper-custom, realistis dan DIY (do it your self), lima hukum Ranganathan perlu didefinisikan ulang dengan semangat yang sama seperti saat hukum tersebut dirumuskan.
 </p>
 
-##### **1. <i>Books are for use</i>; Information is for use**
+##### **1. Books are for use; Information is for use**
 <p align="justify">
 &nbsp;&nbsp;&nbsp;&nbsp; Pada era digital, hukum pertama berevolusi menjadi prinsip yang jauh lebih luas. Safii (2018) menegaskan bahwa dalam konsep buku di era digital. fokusnya bukan pada bentuk melainkan pada isi. Sehingga di era digital, kata "buku" tidak dapat menjadiciri perpustakaan, melainkan "informasi" adalahkata yang tepat karena produk informasi tidak hanya berupa buku. Nurozi (2004) juga menegaskan hal yang sama melalui hukum pertama Web-nya: "informasi tidak memiliki tujuan jika tidak dimanfaatkan dan setidaknya tersedia bagi orang-orang untuk mencoba mempelajarinya."
 </p>
@@ -168,7 +168,7 @@ Assalamualaikum Warahmatullahi Wabarakatuh.
 &nbsp;&nbsp;&nbsp;&nbsp; Safii (2018) merumuskan ulang huku pertama menjadi "Informasi: fokus pada konten, bukan wadah" Redefinisi ini mencerminkan kenyataan bahwa pengguna di era digital tidak peduli dengan bentuk informasi, tetapi esensi informasi itu sendiri yang penting. Gerakan Open Access (OA) merupakkan perwujudan nyata dari semangat hukum pertama di era digital.
 </p>
 
-##### **2. <i>Every Reader his book</i>; Every user his infomation**
+##### **2. Every Reader his book; Every user his infomation**
 <p align="justify">
 &nbsp;&nbsp;&nbsp;&nbsp; Hukum kedua pada era digital berkembang menjadi prinsip keterlibatan pengguna yang lebih dalam. Safii (2018) merumuskan ulang hukum kedua dan ketiga Ranganathan menjadi "keterlibatan"(user engagement). Untuk menciptakan keterlibatan pengguna, perpustakaan harus mengevaluasi kepuasan pengguna terlebbih dahulu, melakukan studi awal tentang efektifitas, efektivitas pengguna, upaya pengguna, dan karakteristik  pengguna.
 </p>
@@ -177,12 +177,12 @@ Assalamualaikum Warahmatullahi Wabarakatuh.
 &nbsp;&nbsp;&nbsp;&nbsp;Nurozi (2004) menegaskan melaluihukum keduan Web-nya bahwa Webmaster dan pengelola informasi "harus mengenal penggunanya dengan baik jika ingin menyediakanmateri yang mereka butuhkan." Sebuah situs atau sistem informasi harus mengandung sumber daya yang sesuai dengan keutuhan semua penggunanya. Pada era digital inklusivitas ini juga menyentuh isu kesenjangan digital )digital divide). Perpustakaan hadir sebagai jembatan bagi merreka yang tidak memiliki akses interner atau perangkat digital.
 </p>
 
-##### **3. <i>Every book its reader</i>; EveryPiece of information its user**
+##### **3. Every book its reader; EveryPiece of information its user**
 <p align="justify">
 &nbsp;&nbsp;&nbsp;&nbsp; Hukum ketiga pada era digital mendapatkan dimensi baru yang luar biasa. Safii (2018) mencatat bahwa di era digital, perpustakaan harus menyediakan ruang bagi pengunjung agar mereka merasa nyaman dalam mengakses koleksi, konsep yang disebut "Learning Commons." Burozi (2004) menegaskan bahwa hukum ketiga adalah "yang paling masuk akal, namun sering dilanggar" setiap pengguna memiliki sumber daya informasi yang tersedia, dan sumber daya tersebut harus di jelaskan dengan baik, diindeks di mesin pencaria, tampilkan secara menarik, dan mudah diakses. Konsep Linked open data (LOD) dalam dunia perpustakaan, yang memungkinkan data bibliografi saling terhubung dan ditemukan melalui berbagai jalur penelusruan, merupakan perwujudan tertinggi hukum ketiga di era digital.
 </p>
 
-##### **4. <i>Save the Time of the Reader</i>; Save the Time of user**
+##### **4. Save the Time of the Reader; Save the Time of user**
 <p align="justify">
 &nbsp;&nbsp;&nbsp;&nbsp; pada era digital, hukum keempat berevolusi menjadi imperatif desain pengalaman pengguna. Nurozi (2004) menegaskan bahwa hukum keepat "memiliki kompenen Front-end (pastikan orang dapat dengan cepat menemukan apa yang mereka cari) dan komponen back-end (pastikan data terstruktur sedemikian rupa sehingga informasi dapat diakses dengan cepat)"
 </p>
@@ -191,7 +191,7 @@ Assalamualaikum Warahmatullahi Wabarakatuh.
 &nbsp;&nbsp;&nbsp;&nbsp; Safii (2018) merumuskan ulang hukum keempat sebagai "Analisis kuantitatid Informasi" Di era digital, pengukuran kuantitatif sangat penting karena sifat Generasi Z yang selalu berpikir secara rasional. Dalam studi perpustakaan dan ilmu informasi, analisis kuantitatif dapat berupa bibliometrik, altimetrik, dan scientometrix. Discovery system seperti Primo, Summon, dan EBSCO Discovery Service adalah ekspresi praktis hukum keempat di era digital.
 </p>
 
-##### **5.<i>The Library is a growing organism</i>; An Evolving Ecosystem**
+##### **5. The Library is a growing organism; An Evolving Ecosystem**
 <p align="justify">
 &nbsp;&nbsp;&nbsp;&nbsp; Hukum kelima, yang sudah visioner sejak dirumuskan pada 1931, kini menemukan resonasinya yang paling kuar di era digital. Safii (2018) merumuskan ulang hukum kelima sebagai 'pembelajaran bersama (online dan Offline) "Menurutnya, tidak seharusnya ada perbedaan antara perpustakaan di dunia nyata dan dunia digital. Jika ada pustakawan yang dapat berinteraksi di gedung perpustakaan, maka seharusnya juga ada pustakawan yang dapat berinteraksi secara daring.
 </p>
@@ -200,7 +200,7 @@ Assalamualaikum Warahmatullahi Wabarakatuh.
 &nbsp;&nbsp;&nbsp;&nbsp; Nurozi (2004) menegaskan bahwa Web, seperti perpustakaan adalah organisme yang tumbuh: "web tumbuh dan berubah dan akan terus melakuknya. Perubahan dan pertumbuhan berjalan beriringan, dan memerlukan fleksibilitas dalam pengelolaan koleksi." Hukum Kelima mengakui bahwa pertumbuhan pasti akan terjadi direncanakan secara sistematis. Perpustakaan era digitak telah berevolusi menjadi ekosistem informasi yang mencakup koleksi fisik dan digital layanan in person dan virtual.
 </p>
 
-#### **2.2. Jelaskan konsep <i>Cyberethic</i> dan Hubungannya dengan Perpustakaan Digital**
+#### **2.2. Jelaskan konsep Cyberethic dan Hubungannya dengan Perpustakaan Digital**
 <p align="justify">
 &nbsp;&nbsp;&nbsp;&nbsp; <i>Cyberethic</i> atau etika siber adalah cabang etika yang berfokus pada perilaku manusia di dunia digital dan internet. Secara lebih spesifik, Syberethicberkaitan dengan pertanyaan tentang apa yang benar dan salah dalam aktifitas yang melibatkan komputer, jaringan dan internet termasuk keamanan siber, privasi, kebebasan berekspresi, hak cipta, dan akses terhadap informasi.
 </p>
@@ -218,7 +218,7 @@ Assalamualaikum Warahmatullahi Wabarakatuh.
 &nbsp;&nbsp;&nbsp;&nbsp; Van de Poel (2020), dalam bukunya yang diedit oleh Christen, Gordijn dan Loi, mengidentifikasi empat nilai utama yang harus dipertimbangkan dalam pengambilan keputusan terkait keamanan siber. Keempat nilai ini membentuk fondasi dari cyberethic dan relevan bagi pengelolaan perpustakaan digital.
 </p>
   
-##### **1. Keamanan <i>(security)</i>**
+##### **1. Keamanan (security)**
 <p align="justify">
 &nbsp;&nbsp;&nbsp; Nilai pertama adalah keamanan, yang secara umum dapat dipahami sebagai kondisi bebas dari bahaya atau ancaman. Van de poel (2020) mendefinisikan keamanan sebagai "keadaan bebas dari bahaya dan ancaman" dalam konteks keamanan siber, ini mencakup keamanan individual, keamanan nasional, dan keamanan sistem komputer. Bagi perpustakaan digital, nilai keamanan ini terwujud dalam kewajiban untuk melindungi koleksi digital dari kerusakan, pencurian atau pemanipulasian serta melindungi data pribadi pengguna dari akses yang tidak sah. 
 </p>
